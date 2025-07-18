@@ -12,8 +12,8 @@ This project performs data analysis and visualization of an e-commerce dataset u
 
 1. **Clone o repositório / Clone the repository**
    ```sh
-   git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
-   cd SEU_REPOSITORIO
+   git clone https://github.com/Artymente/tarefa-graficos.git
+   cd 
    ```
 
 2. **Instale as dependências / Install dependencies**
